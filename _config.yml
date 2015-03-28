@@ -5,14 +5,14 @@ url: "http://ziare.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Learning & Sharng
+  title: Learning & Sharing
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages about Swift, Objective-C, Startups and curator content" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Blog about Swift, Objective-C and cool things I found around, curator content? maybe! :D/p>
+     <p>Blog about Swift, Objective-C and cool things I found around, curator content? maybe! :D</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
