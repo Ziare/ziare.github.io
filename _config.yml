@@ -12,7 +12,9 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Blog about Swift, Objective-C and cool things I found around, curator content? maybe! :D</p>
+     <p>Blog about Swift, Objective-C and cool things I found around</p>
+
+     <p>Curator content? maybe! :D</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
